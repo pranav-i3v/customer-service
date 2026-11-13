@@ -1,8 +1,8 @@
-package com.example.demo.controller;
+package com.kanerika.customer.controller;
 
-import com.example.demo.dto.CustomerRequest;
-import com.example.demo.dto.CustomerResponse;
-import com.example.demo.service.CustomerService;
+import com.kanerika.customer.dto.CustomerRequest;
+import com.kanerika.customer.dto.CustomerResponse;
+import com.kanerika.customer.service.CustomerService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

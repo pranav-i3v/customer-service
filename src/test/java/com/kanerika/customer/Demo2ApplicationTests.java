@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.kanerika.customer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo2ApplicationTests {
+class CustomerApplicationTests {
 
     @Test
     void contextLoads() {

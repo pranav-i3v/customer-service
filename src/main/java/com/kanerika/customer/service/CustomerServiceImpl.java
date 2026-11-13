@@ -1,10 +1,10 @@
-package com.example.demo.service;
+package com.kanerika.customer.service;
 
-import com.example.demo.dto.CustomerRequest;
-import com.example.demo.dto.CustomerResponse;
-import com.example.demo.entity.Customer;
-import com.example.demo.exception.CustomerNotFoundException;
-import com.example.demo.repository.CustomerRepository;
+import com.kanerika.customer.dto.CustomerRequest;
+import com.kanerika.customer.dto.CustomerResponse;
+import com.kanerika.customer.entity.Customer;
+import com.kanerika.customer.exception.CustomerNotFoundException;
+import com.kanerika.customer.repository.CustomerRepository;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

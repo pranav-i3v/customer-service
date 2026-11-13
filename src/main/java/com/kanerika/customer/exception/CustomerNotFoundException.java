@@ -1,4 +1,4 @@
-package com.example.demo.exception;
+package com.kanerika.customer.exception;
 
 public class CustomerNotFoundException extends RuntimeException {
 

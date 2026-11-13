@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.kanerika.customer.repository;
 
-import com.example.demo.entity.Customer;
+import com.kanerika.customer.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CustomerRepository extends JpaRepository<Customer, Long> {

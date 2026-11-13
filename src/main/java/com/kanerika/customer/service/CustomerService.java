@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.kanerika.customer.service;
 
-import com.example.demo.dto.CustomerRequest;
-import com.example.demo.dto.CustomerResponse;
+import com.kanerika.customer.dto.CustomerRequest;
+import com.kanerika.customer.dto.CustomerResponse;
 
 import java.util.List;
 
